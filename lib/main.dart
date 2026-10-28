@@ -412,7 +412,7 @@ class SettingsPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const ListView(
+    return ListView(
       padding: EdgeInsets.all(16),
       children: [
         Card(
