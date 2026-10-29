@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'product_database.dart';
 
 void main() {
   runApp(const RiyadhFactoryApp());
@@ -114,7 +115,8 @@ class _FactoryHomeState extends State<FactoryHome> {
                       'مصنع الرياض للبلك الأوتوماتيكي',
                       style: TextStyle(
                         color: Colors.white,
-                        fontSize: 17,
+                        fontSize: 
+                        17,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
